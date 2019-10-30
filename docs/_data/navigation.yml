@@ -16,33 +16,43 @@ docs:
         url: http://hpcc.ucr.edu/manuals_linux-basics_intro.html
       - title: "List of Bash Tutorials"
         url: https://wiki-dev.bash-hackers.org/scripting/tutoriallist
-  - title: "Parent Page B"
+  - title: "String/text processing"
     children:
-      - title: "Child Page B1"
+      - title: "Awk"
         url: /
-      - title: "Child Page B2"
+      - title: "Sed"
         url: /
-      - title: "Child Page B3"
+      - title: "Vi/Vim"
         url: /
-      - title: "Child Page B4"
+      - title: "RegEx"
         url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "Parent Page C"
+  - title: "Bioinfo Tools"
     children:
-      - title: "Child Page C1"
+      - title: "Samtools"
         url: /
-      - title: "Child Page C2"
+      - title: "Picard"
         url: /
-      - title: "Child Page C3"
+      - title: "BWA"
         url: /
-      - title: "Child Page C4"
+      - title: "BLAST"
         url: /
-      - title: "Child Page C5"
+      - title: "Bedtools"
         url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
+      - title: "GATK"
         url: /
-      - title: "Child Page D2"
+      - title: "IGV"
+        url: /
+      - title: "Galaxy"
+        url: /
+      - title: "Pindel"
+        url: /
+      - title: "FreeBayes"
+        url: /
+      - title: "VEP "
+        url: /
+      - title: "BLAT"
+        url: /
+      - title: "NovoAlign"
+        url: /
+      - title: "Bowtie2"
         url: /
